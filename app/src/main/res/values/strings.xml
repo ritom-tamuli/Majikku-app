@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Majikku</string>
+    <string name="tap">Tap to start</string>
+    <string name="welcome">WELCOME\nTO\nTHE\nWORLD\nOF\nMAJIKKU</string>
+    <string name="text_page1">Think of a number\nshown below :</string>
+    <string name="button_next">NEXT</string>
+    <string name="text_page2.1">Multiply the number by 2</string>
+    <string name="text_page2.2">Add 5 to the result and multiply that figure by 5</string>
+    <string name="text_page3">Think of one more\nnumber shown below: </string>
+    <string name="text_page4.1">Add the number to the previous result</string>
+    <string name="text_page4.2">Now add 10 and multiply the result by 10 </string>
+    <string name="text_page7">Enter the final\nResult</string>
+    <string name="hint">Type here</string>
+    <string name="done_button">DONE</string>
+    <string name="text_page8.1">The numbers you\nchose are</string>
+    <string name="text_page8.2">Thank you for playing</string>
+</resources>
